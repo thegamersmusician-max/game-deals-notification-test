@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "updatedAt": "2026-10-30T22:08:18Z",
+  "store": {
+    "id": "tdk_test_store",
+    "name": "TDK Test Store"
+  },
+  "games": [
+    {
+      "productId": "tdk-test-muzo-001",
+      "title": "MUZO İŞ BAŞINDA",
+      "price": 100,
+      "currency": "TRY"
+    },
+    {
+      "productId": "tdk-test-dost-002",
+      "title": "DOST TATİLDE",
+      "price": 50,
+      "currency": "TRY"
+    }
+  ]
+}

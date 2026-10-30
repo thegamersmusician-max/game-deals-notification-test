@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "updatedAt": "2026-10-30T22:08:18Z",
+  "revision": 2,
+  "updatedAt": "2026-10-30T22:29:33Z",
   "store": {
     "id": "tdk_test_store",
     "name": "TDK Test Store"
@@ -10,13 +10,13 @@
     {
       "productId": "tdk-test-muzo-001",
       "title": "MUZO İŞ BAŞINDA",
-      "price": 100,
+      "price": 50,
       "currency": "TRY"
     },
     {
       "productId": "tdk-test-dost-002",
       "title": "DOST TATİLDE",
-      "price": 50,
+      "price": 100,
       "currency": "TRY"
     }
   ]
